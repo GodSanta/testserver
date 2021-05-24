@@ -1,0 +1,14 @@
+<!doctype html>
+    <html>
+        <head>
+            <title>KSW's Photo storage</title>
+            <meta charset="utf-8">
+        </head>
+        <body>
+            <h1>KSW's Photo storage</h1>
+            <p>
+                <h2>frog ZZAL.png</h2>
+                <img src="frog.jpg" width=500>
+            </p>
+        </body>
+    </html>

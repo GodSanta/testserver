@@ -1,0 +1,18 @@
+<!doctype html>
+ <html>
+    <head>
+        <title>KSW use Sites</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Sites used by KSW</h1>
+        <ol>
+            <h2>
+                <li><a href="https://www.google.co.kr/">Google</a></li>
+                <li><a href="https://www.youtube.com/">Youtube</a> <img src="youtube.ico" width="50"></li>
+                <li><a href="https://www.twitch.tv/">Twitch</a> <img src="twitch.ico" width="50"></li>
+                <li><a href="https://www.op.gg/">OPGG</a> <img src="opgg.ico" width="50"></li>
+            </h2>
+        </ol>
+    </body>
+</html>
